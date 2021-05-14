@@ -34,7 +34,7 @@ namespace Sabba_Semaforo_2
             s = a + b;
             Console.WriteLine($"{a}, {b}");
             t.Release();
-        }
+        }  
 
         public static void Procedura2()
         {
